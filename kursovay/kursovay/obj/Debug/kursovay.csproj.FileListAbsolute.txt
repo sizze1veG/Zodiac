@@ -1,0 +1,14 @@
+E:\sizze1veG\c++\kursovay\kursovay\obj\Debug\kursovay.csproj.AssemblyReference.cache
+E:\sizze1veG\c++\kursovay\kursovay\obj\Debug\kursovay.csproj.SuggestedBindingRedirects.cache
+E:\sizze1veG\c++\kursovay\kursovay\obj\Debug\kursovay.Properties.Resources.resources
+E:\sizze1veG\c++\kursovay\kursovay\obj\Debug\kursovay.csproj.GenerateResource.cache
+E:\sizze1veG\c++\kursovay\kursovay\obj\Debug\kursovay.csproj.CoreCompileInputs.cache
+E:\sizze1veG\c++\kursovay\kursovay\obj\Debug\kursovay.MainForm.resources
+E:\sizze1veG\c++\kursovay\kursovay\bin\Debug\kursovay.exe.config
+E:\sizze1veG\c++\kursovay\kursovay\bin\Debug\kursovay.exe
+E:\sizze1veG\c++\kursovay\kursovay\bin\Debug\kursovay.pdb
+E:\sizze1veG\c++\kursovay\kursovay\obj\Debug\kursovay.exe
+E:\sizze1veG\c++\kursovay\kursovay\obj\Debug\kursovay.pdb
+E:\sizze1veG\c++\kursovay\kursovay\obj\Debug\kursovay.SearchPerson.resources
+E:\sizze1veG\c++\kursovay\kursovay\obj\Debug\kursovay.TableZodiac.resources
+E:\sizze1veG\c++\kursovay\kursovay\obj\Debug\kursovay.Info.resources
