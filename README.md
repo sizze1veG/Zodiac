@@ -1,4 +1,7 @@
 <h1 align="center">Нет названия</h1>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sizze1veG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sizze1veG/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://vk.com/sizze1veg)  
+
 <h2>Задание</h2>
 Описать структуру, содержащую следующие поля:
 
@@ -52,5 +55,3 @@
 Чтобы найти всех людей, которые имеют один и тот же знак зодиака, нужно ввести этот знак зодиака в поле ввода и нажать на кнопку «найти». 
 Программа пройдется по списку и будет брать только тех людей, чей знак зодиака будет совпадать с введенным.
 Затем программа поместит этих людей в таблицу на открывшемся окне.
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sizze1veG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sizze1veG/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://vk.com/sizze1veg)  
